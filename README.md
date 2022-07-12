@@ -7,7 +7,7 @@
 ⚡️ Currículo atualizado\
 ⚡️ Resumo sobre mim\
 ⚡️ Projetos recentes\
-⚡️ Contatos\
+⚡️ Contatos
 
 
 ---
